@@ -1,0 +1,12 @@
+Origin: 
+Label: 
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: 
+
+SHA256:
+ ff49064f0f1c68ed494ef73f5ef75f2d9d725c8de235ad83ee2421f5316359f1 1531 Packages.bz2
+ b5334f91a66d32e73129afca85f24be1f521b55c73f7069638e59c25f46190e8 1448 Packages.xz
